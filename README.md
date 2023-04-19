@@ -1,9 +1,8 @@
 # Hello World
-- 👋 My name is Oleg. I’m a frontend developer
-- 👀 I’m interested in creating interactive experiences
-- 🎓 Bachelors degree in Applied Mathematics and Computer Science
-- 🎮 In my free time I love learning new technologies, playing games and try myself in game development
-- 📫 You can reach me via [email](mailto:takaiten.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/osmolin/)
+- I’m interested in creating interactive experiences
+- Bachelors degree in Applied Mathematics and Computer Science
+- In my free time I love learning new technologies, doing gamedev
+- You can reach me via [email](mailto:takaiten.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/osmolin/)
 
 ## Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
